@@ -1,2 +1,2 @@
-# D-VELoP_Workshops_on_DataScience_MachineLearning
-Workshop slides and codes.
+# D-VELoP_Workshops
+Workshops on data science, programming, machine learning, and deep learning.
